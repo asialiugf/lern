@@ -1,0 +1,15 @@
+{
+  "name": "ler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/asialiugf/lern.git",
+  "author": "asialiugf <2337957910@qq.com>",
+  "license": "MIT",
+  "private": true, 
+  "workspaces": [ 
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
