@@ -1,6 +1,6 @@
 {
   "name": "@bytecome/pack2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "asialiugf <2337957910@qq.com>",
   "homepage": "https://github.com/asialiugf/lern#readme",
@@ -17,8 +17,8 @@
     "build": "node ./lib/pack2.js"
   },
   "publishConfig": {
-     "access": "public",
-     "registry": "https://registry.npmjs.org/"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
@@ -28,7 +28,7 @@
     "url": "https://github.com/asialiugf/lern/issues"
   },
   "dependencies": {
-    "@bytecome/pack1": "0.0.0",
+    "@bytecome/pack1": "^0.0.1",
     "lodash": "^4.17.21"
   }
 }
